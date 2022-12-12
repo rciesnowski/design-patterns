@@ -1,0 +1,325 @@
+C:\Users\erpe\venv\Scripts\python.exe "C:\Users\erpe\Documents\INF2017-2023\2021-2022\sem2\Wzorce projektowe\Ryneczek PY\symulacja.py"
+>miesiac 1
+	bank centr:	inflacja 10 %
+	kupujacy_9:	nie podoba mi sie cena 7970.88 za helikopter u sprzedawca_9
+>miesiac 2 
+	bank centr:	inflacja 10.00 %
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 3 
+	bank centr:	inflacja 10.93 %
+	kupujacy_8:	kupuje od sprzedawca_8 koñ za 28447.43
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 4 
+	bank centr:	inflacja 10.93 %
+	kupujacy_9:	kupuje od sprzedawca_9 helikopter za 7996.55
+	kupujacy_9:	kupuje od sprzedawca_9 helikopter za 7996.55
+>miesiac 5 
+	bank centr:	inflacja 10.35 %
+	kupujacy_1:	kupuje od sprzedawca_1 remont za 39813.45
+	kupujacy_3:	kupuje od sprzedawca_3 drogie krzeslo za 35512.24
+	kupujacy_9:	nie podoba mi sie cena 8014.28 za helikopter u sprzedawca_9
+>miesiac 6 
+	bank centr:	inflacja 10.60 %
+	kupujacy_5:	nie podoba mi sie cena 41137.35 za traktor u sprzedawca_5
+	kupujacy_9:	kupuje od sprzedawca_9 helikopter za 7935.90
+	kupujacy_9:	nie podoba mi sie cena 7935.90 za helikopter u sprzedawca_9
+>miesiac 7 
+	bank centr:	inflacja 9.52 %
+	kupujacy_5:	kupuje od sprzedawca_5 traktor za 41605.76
+	kupujacy_9:	nie podoba mi sie cena 8026.26 za helikopter u sprzedawca_9
+>miesiac 8 
+	bank centr:	inflacja 10.76 %
+	kupujacy_6:	kupuje od sprzedawca_6 obraz za 52843.88
+	kupujacy_7:	nie podoba mi sie cena 51300.33 za dizajnerska skarpeta u sprzedawca_7
+	kupujacy_9:	nie podoba mi sie cena 7978.47 za helikopter u sprzedawca_9
+>miesiac 9 
+	bank centr:	inflacja 10.10 %
+	kupujacy_0:	kupuje od sprzedawca_0 telewizor za 57590.02
+	kupujacy_7:	kupuje od sprzedawca_7 dizajnerska skarpeta za 51203.12
+	kupujacy_8:	kupuje od sprzedawca_8 koñ za 28181.06
+	kupujacy_9:	nie podoba mi sie cena 7963.36 za helikopter u sprzedawca_9
+>miesiac 10 
+	bank centr:	inflacja 9.90 %
+	kupujacy_9:	nie podoba mi sie cena 7868.90 za helikopter u sprzedawca_9
+>miesiac 11 
+	bank centr:	inflacja 8.59 %
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 12 
+	bank centr:	inflacja 10.93 %
+	kupujacy_3:	kupuje od sprzedawca_3 drogie krzeslo za 35620.11
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 13 
+	bank centr:	inflacja 10.93 %
+	kupujacy_1:	nie podoba mi sie cena 39676.10 za remont u sprzedawca_1
+	kupujacy_2:	nie podoba mi sie cena 78970.38 za samochod u sprzedawca_2
+	kupujacy_9:	nie podoba mi sie cena 7986.63 za helikopter u sprzedawca_9
+>miesiac 14 
+	bank centr:	inflacja 10.22 %
+	kupujacy_1:	kupuje od sprzedawca_1 remont za 39934.38
+	kupujacy_2:	kupuje od sprzedawca_2 samochod za 79484.46
+	kupujacy_5:	nie podoba mi sie cena 41669.83 za traktor u sprzedawca_5
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 15 
+	bank centr:	inflacja 10.93 %
+	kupujacy_5:	kupuje od sprzedawca_5 traktor za 40887.11
+	kupujacy_8:	kupuje od sprzedawca_8 koñ za 27913.08
+	kupujacy_9:	nie podoba mi sie cena 7887.63 za helikopter u sprzedawca_9
+>miesiac 16 
+	bank centr:	inflacja 8.85 %
+	kupujacy_9:	nie podoba mi sie cena 7942.40 za helikopter u sprzedawca_9
+>miesiac 17 
+	bank centr:	inflacja 9.61 %
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 18 
+	bank centr:	inflacja 10.93 %
+	kupujacy_7:	nie podoba mi sie cena 51687.09 za dizajnerska skarpeta u sprzedawca_7
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 19 
+	bank centr:	inflacja 10.93 %
+	kupujacy_3:	nie podoba mi sie cena 35620.11 za drogie krzeslo u sprzedawca_3
+	kupujacy_6:	kupuje od sprzedawca_6 obraz za 53242.28
+	kupujacy_7:	nie podoba mi sie cena 51687.09 za dizajnerska skarpeta u sprzedawca_7
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 20 
+	bank centr:	inflacja 10.93 %
+	kupujacy_3:	kupuje od sprzedawca_3 drogie krzeslo za 35286.58
+	kupujacy_4:	nie podoba mi sie cena 109951.17 za fajny wazon u sprzedawca_4
+	kupujacy_7:	nie podoba mi sie cena 51203.12 za dizajnerska skarpeta u sprzedawca_7
+	kupujacy_8:	nie podoba mi sie cena 28181.06 za koñ u sprzedawca_8
+	kupujacy_9:	nie podoba mi sie cena 7963.36 za helikopter u sprzedawca_9
+>miesiac 21 
+	bank centr:	inflacja 9.90 %
+	kupujacy_0:	nie podoba mi sie cena 57758.36 za telewizor u sprzedawca_0
+	kupujacy_1:	kupuje od sprzedawca_1 remont za 39676.10
+	kupujacy_4:	nie podoba mi sie cena 110272.58 za fajny wazon u sprzedawca_4
+	kupujacy_7:	nie podoba mi sie cena 51352.80 za dizajnerska skarpeta u sprzedawca_7
+	kupujacy_8:	kupuje od sprzedawca_8 koñ za 28263.44
+	kupujacy_9:	nie podoba mi sie cena 7986.63 za helikopter u sprzedawca_9
+>miesiac 22 
+	bank centr:	inflacja 10.22 %
+	kupujacy_0:	nie podoba mi sie cena 57453.62 za telewizor u sprzedawca_0
+	kupujacy_4:	nie podoba mi sie cena 109690.77 za fajny wazon u sprzedawca_4
+	kupujacy_5:	kupuje od sprzedawca_5 traktor za 41181.89
+	kupujacy_7:	kupuje od sprzedawca_7 dizajnerska skarpeta za 51081.85
+	kupujacy_9:	nie podoba mi sie cena 7944.49 za helikopter u sprzedawca_9
+>miesiac 23 
+	bank centr:	inflacja 9.64 %
+	kupujacy_0:	nie podoba mi sie cena 57243.64 za telewizor u sprzedawca_0
+	kupujacy_4:	nie podoba mi sie cena 109289.87 za fajny wazon u sprzedawca_4
+	kupujacy_9:	nie podoba mi sie cena 7915.46 za helikopter u sprzedawca_9
+>miesiac 24 
+	bank centr:	inflacja 9.24 %
+	kupujacy_0:	kupuje od sprzedawca_0 telewizor za 58134.36
+	kupujacy_4:	kupuje od sprzedawca_4 fajny wazon za 110990.43
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 25 
+	bank centr:	inflacja 10.93 %
+	kupujacy_9:	nie podoba mi sie cena 7840.49 za helikopter u sprzedawca_9
+>miesiac 26 
+	bank centr:	inflacja 8.20 %
+	kupujacy_3:	kupuje od sprzedawca_3 drogie krzeslo za 35620.11
+	kupujacy_8:	nie podoba mi sie cena 28447.43 za koñ u sprzedawca_8
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 27 
+	bank centr:	inflacja 10.93 %
+	kupujacy_8:	nie podoba mi sie cena 28263.44 za koñ u sprzedawca_8
+	kupujacy_9:	nie podoba mi sie cena 7986.63 za helikopter u sprzedawca_9
+>miesiac 28 
+	bank centr:	inflacja 10.22 %
+	kupujacy_7:	nie podoba mi sie cena 51687.09 za dizajnerska skarpeta u sprzedawca_7
+	kupujacy_8:	kupuje od sprzedawca_8 koñ za 28447.43
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 29 
+	bank centr:	inflacja 10.93 %
+	kupujacy_1:	nie podoba mi sie cena 39725.34 za remont u sprzedawca_1
+	kupujacy_2:	nie podoba mi sie cena 79068.40 za samochod u sprzedawca_2
+	kupujacy_6:	nie podoba mi sie cena 52963.59 za obraz u sprzedawca_6
+	kupujacy_7:	kupuje od sprzedawca_7 dizajnerska skarpeta za 51416.54
+	kupujacy_9:	kupuje od sprzedawca_9 helikopter za 7996.55
+	kupujacy_9:	nie podoba mi sie cena 7996.55 za helikopter u sprzedawca_9
+>miesiac 30 
+	bank centr:	inflacja 10.35 %
+	kupujacy_1:	nie podoba mi sie cena 39519.72 za remont u sprzedawca_1
+	kupujacy_2:	nie podoba mi sie cena 78659.12 za samochod u sprzedawca_2
+	kupujacy_5:	nie podoba mi sie cena 41237.15 za traktor u sprzedawca_5
+	kupujacy_6:	nie podoba mi sie cena 52689.44 za obraz u sprzedawca_6
+	kupujacy_9:	nie podoba mi sie cena 7955.16 za helikopter u sprzedawca_9
+>miesiac 31 
+	bank centr:	inflacja 9.78 %
+	kupujacy_1:	kupuje od sprzedawca_1 remont za 39934.38
+	kupujacy_2:	nie podoba mi sie cena 79484.46 za samochod u sprzedawca_2
+	kupujacy_5:	kupuje od sprzedawca_5 traktor za 41669.83
+	kupujacy_6:	nie podoba mi sie cena 53242.28 za obraz u sprzedawca_6
+	kupujacy_8:	kupuje od sprzedawca_8 koñ za 28447.43
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 32 
+	bank centr:	inflacja 10.93 %
+	kupujacy_0:	nie podoba mi sie cena 57112.76 za telewizor u sprzedawca_0
+	kupujacy_2:	kupuje od sprzedawca_2 samochod za 78087.67
+	kupujacy_6:	nie podoba mi sie cena 52306.65 za obraz u sprzedawca_6
+	kupujacy_9:	kupuje od sprzedawca_9 helikopter za 7897.36
+	kupujacy_9:	nie podoba mi sie cena 7897.36 za helikopter u sprzedawca_9
+>miesiac 33 
+	bank centr:	inflacja 8.99 %
+	kupujacy_0:	nie podoba mi sie cena 57291.11 za telewizor u sprzedawca_0
+	kupujacy_3:	kupuje od sprzedawca_3 drogie krzeslo za 35103.43
+	kupujacy_6:	nie podoba mi sie cena 52470.00 za obraz u sprzedawca_6
+	kupujacy_9:	nie podoba mi sie cena 7922.02 za helikopter u sprzedawca_9
+>miesiac 34 
+	bank centr:	inflacja 9.33 %
+	kupujacy_0:	nie podoba mi sie cena 57758.36 za telewizor u sprzedawca_0
+	kupujacy_6:	nie podoba mi sie cena 52897.93 za obraz u sprzedawca_6
+	kupujacy_9:	nie podoba mi sie cena 7986.63 za helikopter u sprzedawca_9
+>miesiac 35 
+	bank centr:	inflacja 10.22 %
+	kupujacy_0:	nie podoba mi sie cena 58134.36 za telewizor u sprzedawca_0
+	kupujacy_6:	nie podoba mi sie cena 53242.28 za obraz u sprzedawca_6
+	kupujacy_9:	kupuje od sprzedawca_9 helikopter za 8038.62
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 36 
+	bank centr:	inflacja 10.93 %
+	kupujacy_0:	kupuje od sprzedawca_0 telewizor za 58044.96
+	kupujacy_6:	nie podoba mi sie cena 53160.41 za obraz u sprzedawca_6
+	kupujacy_9:	nie podoba mi sie cena 8026.26 za helikopter u sprzedawca_9
+>miesiac 37 
+	bank centr:	inflacja 10.76 %
+	kupujacy_1:	kupuje od sprzedawca_1 remont za 39529.63
+	kupujacy_6:	kupuje od sprzedawca_6 obraz za 52702.65
+	kupujacy_8:	nie podoba mi sie cena 28159.10 za koñ u sprzedawca_8
+	kupujacy_9:	nie podoba mi sie cena 7957.15 za helikopter u sprzedawca_9
+>miesiac 38 
+	bank centr:	inflacja 9.81 %
+	kupujacy_7:	nie podoba mi sie cena 50896.45 za dizajnerska skarpeta u sprzedawca_7
+	kupujacy_8:	kupuje od sprzedawca_8 koñ za 28012.28
+	kupujacy_9:	nie podoba mi sie cena 7915.66 za helikopter u sprzedawca_9
+>miesiac 39 
+	bank centr:	inflacja 9.24 %
+	kupujacy_5:	nie podoba mi sie cena 41451.71 za traktor u sprzedawca_5
+	kupujacy_7:	kupuje od sprzedawca_7 dizajnerska skarpeta za 51416.54
+	kupujacy_9:	nie podoba mi sie cena 7996.55 za helikopter u sprzedawca_9
+>miesiac 40 
+	bank centr:	inflacja 10.35 %
+	kupujacy_3:	kupuje od sprzedawca_3 drogie krzeslo za 35295.42
+	kupujacy_5:	kupuje od sprzedawca_5 traktor za 41290.00
+	kupujacy_6:	nie podoba mi sie cena 52756.96 za obraz u sprzedawca_6
+	kupujacy_9:	nie podoba mi sie cena 7965.35 za helikopter u sprzedawca_9
+>miesiac 41 
+	bank centr:	inflacja 9.92 %
+	kupujacy_6:	nie podoba mi sie cena 52548.35 za obraz u sprzedawca_6
+	kupujacy_9:	nie podoba mi sie cena 7933.85 za helikopter u sprzedawca_9
+>miesiac 42 
+	bank centr:	inflacja 9.49 %
+	kupujacy_4:	nie podoba mi sie cena 110990.43 za fajny wazon u sprzedawca_4
+	kupujacy_6:	nie podoba mi sie cena 53242.28 za obraz u sprzedawca_6
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 43 
+	bank centr:	inflacja 10.93 %
+	kupujacy_4:	nie podoba mi sie cena 110990.43 za fajny wazon u sprzedawca_4
+	kupujacy_6:	kupuje od sprzedawca_6 obraz za 53242.28
+	kupujacy_8:	nie podoba mi sie cena 28447.43 za koñ u sprzedawca_8
+	kupujacy_9:	kupuje od sprzedawca_9 helikopter za 8038.62
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 44 
+	bank centr:	inflacja 10.93 %
+	kupujacy_0:	kupuje od sprzedawca_0 telewizor za 57516.69
+	kupujacy_4:	nie podoba mi sie cena 109811.18 za fajny wazon u sprzedawca_4
+	kupujacy_8:	nie podoba mi sie cena 28145.18 za koñ u sprzedawca_8
+	kupujacy_9:	nie podoba mi sie cena 7953.22 za helikopter u sprzedawca_9
+>miesiac 45 
+	bank centr:	inflacja 9.76 %
+	kupujacy_1:	kupuje od sprzedawca_1 remont za 39529.63
+	kupujacy_2:	nie podoba mi sie cena 78678.85 za samochod u sprzedawca_2
+	kupujacy_4:	nie podoba mi sie cena 109865.50 za fajny wazon u sprzedawca_4
+	kupujacy_8:	nie podoba mi sie cena 28159.10 za koñ u sprzedawca_8
+	kupujacy_9:	nie podoba mi sie cena 7957.15 za helikopter u sprzedawca_9
+>miesiac 46 
+	bank centr:	inflacja 9.81 %
+	kupujacy_2:	nie podoba mi sie cena 78912.65 za samochod u sprzedawca_2
+	kupujacy_4:	nie podoba mi sie cena 110191.98 za fajny wazon u sprzedawca_4
+	kupujacy_8:	kupuje od sprzedawca_8 koñ za 28242.78
+	kupujacy_9:	nie podoba mi sie cena 7980.80 za helikopter u sprzedawca_9
+>miesiac 47 
+	bank centr:	inflacja 10.14 %
+	kupujacy_2:	nie podoba mi sie cena 79068.40 za samochod u sprzedawca_2
+	kupujacy_3:	nie podoba mi sie cena 35433.65 za drogie krzeslo u sprzedawca_3
+	kupujacy_4:	nie podoba mi sie cena 110409.45 za fajny wazon u sprzedawca_4
+	kupujacy_5:	nie podoba mi sie cena 41451.71 za traktor u sprzedawca_5
+	kupujacy_9:	nie podoba mi sie cena 7996.55 za helikopter u sprzedawca_9
+>miesiac 48 
+	bank centr:	inflacja 10.35 %
+	kupujacy_2:	nie podoba mi sie cena 79484.46 za samochod u sprzedawca_2
+	kupujacy_3:	nie podoba mi sie cena 35620.11 za drogie krzeslo u sprzedawca_3
+	kupujacy_4:	nie podoba mi sie cena 110990.43 za fajny wazon u sprzedawca_4
+	kupujacy_5:	nie podoba mi sie cena 41669.83 za traktor u sprzedawca_5
+	kupujacy_8:	kupuje od sprzedawca_8 koñ za 28447.43
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 49 
+	bank centr:	inflacja 10.93 %
+	kupujacy_2:	nie podoba mi sie cena 79068.40 za samochod u sprzedawca_2
+	kupujacy_3:	kupuje od sprzedawca_3 drogie krzeslo za 35433.65
+	kupujacy_4:	nie podoba mi sie cena 110409.45 za fajny wazon u sprzedawca_4
+	kupujacy_5:	kupuje od sprzedawca_5 traktor za 41451.71
+	kupujacy_7:	nie podoba mi sie cena 51416.54 za dizajnerska skarpeta u sprzedawca_7
+	kupujacy_9:	nie podoba mi sie cena 7996.55 za helikopter u sprzedawca_9
+>miesiac 50 
+	bank centr:	inflacja 10.35 %
+	kupujacy_2:	kupuje od sprzedawca_2 samochod za 78448.50
+	kupujacy_4:	nie podoba mi sie cena 109543.84 za fajny wazon u sprzedawca_4
+	kupujacy_6:	nie podoba mi sie cena 52548.35 za obraz u sprzedawca_6
+	kupujacy_7:	kupuje od sprzedawca_7 dizajnerska skarpeta za 51013.43
+	kupujacy_9:	nie podoba mi sie cena 7933.85 za helikopter u sprzedawca_9
+>miesiac 51 
+	bank centr:	inflacja 9.49 %
+	kupujacy_4:	nie podoba mi sie cena 108742.58 za fajny wazon u sprzedawca_4
+	kupujacy_6:	nie podoba mi sie cena 52163.98 za obraz u sprzedawca_6
+	kupujacy_9:	nie podoba mi sie cena 7875.82 za helikopter u sprzedawca_9
+>miesiac 52 
+	bank centr:	inflacja 8.69 %
+	kupujacy_4:	nie podoba mi sie cena 110990.43 za fajny wazon u sprzedawca_4
+	kupujacy_6:	kupuje od sprzedawca_6 obraz za 53242.28
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 53 
+	bank centr:	inflacja 10.93 %
+	kupujacy_1:	kupuje od sprzedawca_1 remont za 39560.45
+	kupujacy_4:	nie podoba mi sie cena 109951.17 za fajny wazon u sprzedawca_4
+	kupujacy_9:	nie podoba mi sie cena 7963.36 za helikopter u sprzedawca_9
+>miesiac 54 
+	bank centr:	inflacja 9.90 %
+	kupujacy_3:	kupuje od sprzedawca_3 drogie krzeslo za 35363.86
+	kupujacy_4:	nie podoba mi sie cena 110191.98 za fajny wazon u sprzedawca_4
+	kupujacy_8:	nie podoba mi sie cena 28242.78 za koñ u sprzedawca_8
+	kupujacy_9:	nie podoba mi sie cena 7980.80 za helikopter u sprzedawca_9
+>miesiac 55 
+	bank centr:	inflacja 10.14 %
+	kupujacy_0:	nie podoba mi sie cena 57758.36 za telewizor u sprzedawca_0
+	kupujacy_4:	nie podoba mi sie cena 110272.58 za fajny wazon u sprzedawca_4
+	kupujacy_5:	nie podoba mi sie cena 41400.33 za traktor u sprzedawca_5
+	kupujacy_8:	nie podoba mi sie cena 28263.44 za koñ u sprzedawca_8
+	kupujacy_9:	nie podoba mi sie cena 7986.63 za helikopter u sprzedawca_9
+>miesiac 56 
+	bank centr:	inflacja 10.22 %
+	kupujacy_0:	nie podoba mi sie cena 58134.36 za telewizor u sprzedawca_0
+	kupujacy_4:	kupuje od sprzedawca_4 fajny wazon za 110990.43
+	kupujacy_5:	nie podoba mi sie cena 41669.83 za traktor u sprzedawca_5
+	kupujacy_8:	nie podoba mi sie cena 28447.43 za koñ u sprzedawca_8
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 57 
+	bank centr:	inflacja 10.93 %
+	kupujacy_0:	kupuje od sprzedawca_0 telewizor za 57105.61
+	kupujacy_5:	kupuje od sprzedawca_5 traktor za 40932.44
+	kupujacy_8:	kupuje od sprzedawca_8 koñ za 27944.02
+	kupujacy_9:	nie podoba mi sie cena 7896.37 za helikopter u sprzedawca_9
+>miesiac 58 
+	bank centr:	inflacja 8.97 %
+	kupujacy_9:	nie podoba mi sie cena 7878.71 za helikopter u sprzedawca_9
+>miesiac 59 
+	bank centr:	inflacja 8.73 %
+	kupujacy_7:	nie podoba mi sie cena 51687.09 za dizajnerska skarpeta u sprzedawca_7
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+>miesiac 60 
+	bank centr:	inflacja 10.93 %
+	kupujacy_7:	kupuje od sprzedawca_7 dizajnerska skarpeta za 51687.09
+	kupujacy_8:	nie podoba mi sie cena 28447.43 za koñ u sprzedawca_8
+	kupujacy_9:	nie podoba mi sie cena 8038.62 za helikopter u sprzedawca_9
+
+Process finished with exit code 0
